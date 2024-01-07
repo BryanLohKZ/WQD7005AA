@@ -76,5 +76,12 @@ The gradient boosting ensemble method is used to strengthen the model by reitera
  
 Figure 14 Fit Statistic Gradient Boosting
 
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/95b1ce26-b2a4-44c2-ade3-a901722035db)
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/74ef0373-4c46-48ed-b501-0b7c51eff909)
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/0a11ba48-beaa-4985-a143-7c915096357b)
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/17c85e9e-b86a-44c9-8a1d-8656bad7fae2)
     
 Figure 15Gradient boosting Error vs Iteration
