@@ -15,8 +15,11 @@ Figure 2 Dataset variables
 Above are the variables of the dataset that has been imported into SAS, the variables roles of Customer_ID is change to ID as it is a identifier, and the Satisfaction_level is changed to Target as it is our target variable when applying the decision tree later.
 
 ![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/72a8c2af-988f-42e5-ad32-2e66b2852e8e) 
+
 Figure 3 Talend Prep 1
+
 ![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/da5fcaec-38df-4ef7-b46e-693c6b255167)    
+
 Figure 4 Talend Prep 2
 Before applying the decision tree, missing values are checked. Talend Prep is used to check for missing values, and there are 2 missing values that are found in the satisfaction level column, the 2 rows are then deleted.
 
