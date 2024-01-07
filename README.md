@@ -16,11 +16,11 @@ Above are the variables of the dataset that has been imported into SAS, the vari
 
 ![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/72a8c2af-988f-42e5-ad32-2e66b2852e8e) 
 Figure 3 Talend Prep 1
-     
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/da5fcaec-38df-4ef7-b46e-693c6b255167)    
 Figure 4 Talend Prep 2
 Before applying the decision tree, missing values are checked. Talend Prep is used to check for missing values, and there are 2 missing values that are found in the satisfaction level column, the 2 rows are then deleted.
 
- 
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/14a7015b-d378-43a9-9958-c99bb22fda50) 
 Figure 5 Data Partitioning
 Before applying the decision tree node, a data partition node is used to partition the dataset and prepare it for the model. The data is split into 70% training, 15% validation, and 15% test. The partitioning method is simple random with a random seed of 12345.
  
