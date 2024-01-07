@@ -52,17 +52,27 @@ Figure 9 Decision Tree
 
 The figure above is the decision tree map. The map shows us that Customers and Miami, and Chicago has 100% unsatisfied level. Therefore, to improve the satisfaction level, the business owner should investigate the shops in those areas to figure out what is wrong. Going down the map we can see that when customers buy more or equal to 12.5 items, they are satisfied while customers that bought less than 12 have a neutral stance. This information could be used to improve the neutral stance to a satisfied stance if more data is acquired.
 
-
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/e136a2dd-937e-4c7d-9cf5-0f5ba4a2f53c)
  
 Figure 10 Random Forest Results
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/e9f8a242-ecab-468a-ad2d-bc3a50ccde99)
  
 Figure 11 RFM Misclassification rate
+
 The Random Forest algorithm is the ensemble method used to demonstrate bagging. The figure above shows the misclassification rate of out of bag, as more trees are created, the misclassification rate decreases. 
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/a3fe41d5-d76c-4fd3-98a6-f8d4e4d60d79)
  
 Figure 12 Fit Statistic of RFM
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/b171c5bb-a50b-4b6f-81cd-7fea93ef4260)
  
 Figure 13 Gradient Boosting Results
+
 The gradient boosting ensemble method is used to strengthen the model by reiterating weaker models such as decision trees to create a stronger predictive strength. However, in this case the decision tree used has already given us a satisfactory result. 
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/07a463ad-c006-4780-a791-70dfa97244c4)
  
 Figure 14 Fit Statistic Gradient Boosting
 
