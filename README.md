@@ -35,14 +35,24 @@ Before applying the decision tree node, a data partition node is used to partiti
 ![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/6318c7e3-2b1b-46ae-916b-bddbc0142b51)
  
 Figure 6 Decision Tree Result
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/e8a249ed-5434-4d20-beba-6df86ddc85a2)
  
 Figure 7 Decision Tree Train
+
 From the figure above, the decision tree model seems to be predicting the target variable perfectly with 0 false positive and negative.
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/8f924582-5093-406d-ad12-13137068256d)
  
 Figure 8 Variable Importance
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/837b5520-1700-40d2-bbb8-38e91c757bc5)
  
 Figure 9 Decision Tree
+
 The figure above is the decision tree map. The map shows us that Customers and Miami, and Chicago has 100% unsatisfied level. Therefore, to improve the satisfaction level, the business owner should investigate the shops in those areas to figure out what is wrong. Going down the map we can see that when customers buy more or equal to 12.5 items, they are satisfied while customers that bought less than 12 have a neutral stance. This information could be used to improve the neutral stance to a satisfied stance if more data is acquired.
+
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/0742be1d-8562-4821-acf7-0eb3caa4ac76)
  
 Figure 10 Random Forest Results
  
