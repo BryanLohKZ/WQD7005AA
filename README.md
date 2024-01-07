@@ -14,7 +14,7 @@ Figure 2 Dataset variables
 
 Above are the variables of the dataset that has been imported into SAS, the variables roles of Customer_ID is change to ID as it is a identifier, and the Satisfaction_level is changed to Target as it is our target variable when applying the decision tree later.
 
- 
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/72a8c2af-988f-42e5-ad32-2e66b2852e8e) 
 Figure 3 Talend Prep 1
      
 Figure 4 Talend Prep 2
