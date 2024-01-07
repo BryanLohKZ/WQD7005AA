@@ -5,7 +5,7 @@ Two tools are used in this assessment, the first behind SAS e-miner. Sas e-miner
 The dataset used can be obtain from Kaggle. https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset?resource=download&select=E-commerce+Customer+Behavior+-+Sheet1.csv
 
 
- 
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/878e4cf4-82bb-4461-b18a-f115b983267c) 
 Figure 1 SAS Diagram
 
 The first step is to import the dataset into SAS enterprise miner, it is done using the file import node. 
