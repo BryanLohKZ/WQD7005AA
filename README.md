@@ -9,7 +9,7 @@ The dataset used can be obtain from Kaggle. https://www.kaggle.com/datasets/uom1
 Figure 1 SAS Diagram
 
 The first step is to import the dataset into SAS enterprise miner, it is done using the file import node. 
- 
+![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/5a817e20-21cd-4d6b-8059-e911fb2044d6) 
 Figure 2 Dataset variables
 
 Above are the variables of the dataset that has been imported into SAS, the variables roles of Customer_ID is change to ID as it is a identifier, and the Satisfaction_level is changed to Target as it is our target variable when applying the decision tree later.
