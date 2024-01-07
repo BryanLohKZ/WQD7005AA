@@ -9,7 +9,9 @@ The dataset used can be obtain from Kaggle. https://www.kaggle.com/datasets/uom1
 Figure 1 SAS Diagram
 
 The first step is to import the dataset into SAS enterprise miner, it is done using the file import node. 
+
 ![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/5a817e20-21cd-4d6b-8059-e911fb2044d6) 
+
 Figure 2 Dataset variables
 
 Above are the variables of the dataset that has been imported into SAS, the variables roles of Customer_ID is change to ID as it is a identifier, and the Satisfaction_level is changed to Target as it is our target variable when applying the decision tree later.
@@ -26,6 +28,7 @@ Before applying the decision tree, missing values are checked. Talend Prep is us
 ![image](https://github.com/BryanLohKZ/WQD7005AA/assets/155895491/14a7015b-d378-43a9-9958-c99bb22fda50) 
 
 Figure 5 Data Partitioning
+
 Before applying the decision tree node, a data partition node is used to partition the dataset and prepare it for the model. The data is split into 70% training, 15% validation, and 15% test. The partitioning method is simple random with a random seed of 12345.
  
 Figure 6 Decision Tree Result
